@@ -21,17 +21,20 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-0969AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-58C4DC?style=for-the-badge&logo=react&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-0A7EA4?style=for-the-badge&logo=react&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Frontend UI Framwork:
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![DaysiUI](https://img.shields.io/badge/-DaisyUI-1D232A?style=for-the-badge&logo=daisyui&logoColor=white)
+![DaysiUI](https://img.shields.io/badge/-DaisyUI-2B3440?style=for-the-badge&logo=daisyui&logoColor=white)
+![NextUI](https://img.shields.io/badge/-NextUI-1D232A?style=for-the-badge&logo=nextui&logoColor=white)
 
 ### Backend:
-![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJs](https://img.shields.io/badge/NestJs-EA285E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-64F?style=for-the-badge&logo=directus&logoColor=white)
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
